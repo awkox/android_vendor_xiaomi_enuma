@@ -298,8 +298,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libfcsam \
     libril \
-    vendor.qti.hardware.radio.qtiradio@2.5 \
-    vendor.qti.hardware.radio.qtiradio@2.6 \
     audio.primary.enuma \
     vendor.qti.hardware.audiohalext@1.0-impl \
     liba2dpoffload_enuma \
@@ -531,6 +529,8 @@ PRODUCT_PACKAGES += \
     sensors.mius.proximity \
     sensors.ssc \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
+    vendor.qti.hardware.radio.qtiradio@2.5 \
+    vendor.qti.hardware.radio.qtiradio@2.6 \
     vendor.qti.hardware.sensorscalibrate@1.0 \
     vendor_lib_rfsa_adsp_capi_v2_cirrus_sp_so \
     vendor_lib_rfsa_adsp_capi_v2_dap_cpdp_so \
