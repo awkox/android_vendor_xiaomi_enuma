@@ -297,6 +297,9 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libfcsam \
+    libril \
+    vendor.qti.hardware.radio.qtiradio@2.5 \
+    vendor.qti.hardware.radio.qtiradio@2.6 \
     audio.primary.enuma \
     vendor.qti.hardware.audiohalext@1.0-impl \
     liba2dpoffload_enuma \
